@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  restapi:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-09-24T09:48:59.236826579Z"
+    description: A Helm chart for Kubernetes
+    digest: 75bbc5f13ba1947d717fb118dda8be367d503d58edad6a23c44eec561b516d51
+    name: restapi
+    type: application
+    urls:
+    - restapi-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-24T09:48:59.236058506Z"
